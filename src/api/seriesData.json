@@ -1,0 +1,220 @@
+
+[
+  {
+    "id": 1,
+    "name": "Adhoora",
+    "rating": 8.2,
+    "summary": "An action-packed thriller where spies clash in an international conspiracy.",
+    "genre": "Action",
+    "img_src": "https://i.ytimg.com/vi/kW1xGJvtFIk/hqdefault.jpg",
+    "watch_now_text": "Watch Now",
+    "watch_url": "https://www.netflix.com"
+  },
+  {
+    "id": 2,
+    "name": "Paatal Lok",
+    "rating": 8.5,
+    "summary": "A gritty crime drama exploring the dark side of society.",
+    "genre": "Crime",
+    "img_src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF2shMJSElfV8kHsL9Bpp6T1QHzh5fM8fX0AQWFkfLthhi5MbRkkhQdapm_e18QaVg29wh",
+    "watch_now_text": "Watch Now",
+    "watch_url": "https://www.netflix.com"
+  },
+  {
+    "id": 3,
+    "name": "Sacred Games",
+    "rating": 8.6,
+    "summary": "A police officer uncovers a dangerous criminal network in Mumbai.",
+    "genre": "Thriller",
+    "img_src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn5iQVUMmCBKWoRRAjY4qORrvL2SgxW8dSESz9BuRTIuB0L8AGgw1SkXNEGRxc6upBTSRpPA",
+    "watch_now_text": "Watch Now",
+    "watch_url": "https://www.netflix.com"
+  },
+
+{
+  "id": 1,
+  "name": "Zaruri tha",
+  "rating": 9.1,
+  "summary": "An action-packed thriller where spies clash in an international conspiracy.",
+  "genre": "Hearttouching",
+  "img_src": "https://i.ytimg.com/vi/QW_5uoG2q90/maxresdefault.jpg",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+{
+  "id": 1,
+  "name": "Adhoora",
+  "rating": 8.2,
+  "summary": "An action-packed thriller where spies clash in an international conspiracy.",
+  "genre": "Action",
+  "img_src": "https://i.ytimg.com/vi/kW1xGJvtFIk/hqdefault.jpg",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+{
+  "id": 2,
+  "name": "Paatal Lok",
+  "rating": 8.5,
+  "summary": "A gritty crime drama exploring the dark side of society.",
+  "genre": "Crime",
+  "img_src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF2shMJSElfV8kHsL9Bpp6T1QHzh5fM8fX0AQWFkfLthhi5MbRkkhQdapm_e18QaVg29wh",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+{
+  "id": 3,
+  "name": "Sacred Games",
+  "rating": 8.6,
+  "summary": "A police officer uncovers a dangerous criminal network in Mumbai.",
+  "genre": "Thriller",
+  "img_src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn5iQVUMmCBKWoRRAjY4qORrvL2SgxW8dSESz9BuRTIuB0L8AGgw1SkXNEGRxc6upBTSRpPA",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+
+{
+"id": 1,
+"name": "Zaruri tha",
+"rating": 9.1,
+"summary": "An action-packed thriller where spies clash in an international conspiracy.",
+"genre": "Hearttouching",
+"img_src": "https://i.ytimg.com/vi/QW_5uoG2q90/maxresdefault.jpg",
+"watch_now_text": "Watch Now",
+"watch_url": "https://www.netflix.com"
+},
+{
+  "id": 1,
+  "name": "Adhoora",
+  "rating": 8.2,
+  "summary": "An action-packed thriller where spies clash in an international conspiracy.",
+  "genre": "Action",
+  "img_src": "https://i.ytimg.com/vi/kW1xGJvtFIk/hqdefault.jpg",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+{
+  "id": 2,
+  "name": "Paatal Lok",
+  "rating": 8.5,
+  "summary": "A gritty crime drama exploring the dark side of society.",
+  "genre": "Crime",
+  "img_src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF2shMJSElfV8kHsL9Bpp6T1QHzh5fM8fX0AQWFkfLthhi5MbRkkhQdapm_e18QaVg29wh",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+{
+  "id": 3,
+  "name": "Sacred Games",
+  "rating": 8.6,
+  "summary": "A police officer uncovers a dangerous criminal network in Mumbai.",
+  "genre": "Thriller",
+  "img_src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn5iQVUMmCBKWoRRAjY4qORrvL2SgxW8dSESz9BuRTIuB0L8AGgw1SkXNEGRxc6upBTSRpPA",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+
+{
+"id": 1,
+"name": "Zaruri tha",
+"rating": 9.1,
+"summary": "An action-packed thriller where spies clash in an international conspiracy.",
+"genre": "Hearttouching",
+"img_src": "https://i.ytimg.com/vi/QW_5uoG2q90/maxresdefault.jpg",
+"watch_now_text": "Watch Now",
+"watch_url": "https://www.netflix.com"
+},
+{
+  "id": 1,
+  "name": "Adhoora",
+  "rating": 8.2,
+  "summary": "An action-packed thriller where spies clash in an international conspiracy.",
+  "genre": "Action",
+  "img_src": "https://i.ytimg.com/vi/kW1xGJvtFIk/hqdefault.jpg",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+{
+  "id": 2,
+  "name": "Paatal Lok",
+  "rating": 8.5,
+  "summary": "A gritty crime drama exploring the dark side of society.",
+  "genre": "Crime",
+  "img_src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF2shMJSElfV8kHsL9Bpp6T1QHzh5fM8fX0AQWFkfLthhi5MbRkkhQdapm_e18QaVg29wh",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+{
+  "id": 3,
+  "name": "Sacred Games",
+  "rating": 8.6,
+  "summary": "A police officer uncovers a dangerous criminal network in Mumbai.",
+  "genre": "Thriller",
+  "img_src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn5iQVUMmCBKWoRRAjY4qORrvL2SgxW8dSESz9BuRTIuB0L8AGgw1SkXNEGRxc6upBTSRpPA",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+
+{
+"id": 1,
+"name": "Zaruri tha",
+"rating": 9.1,
+"summary": "An action-packed thriller where spies clash in an international conspiracy.",
+"genre": "Hearttouching",
+"img_src": "https://i.ytimg.com/vi/QW_5uoG2q90/maxresdefault.jpg",
+"watch_now_text": "Watch Now",
+"watch_url": "https://www.netflix.com"
+},
+{
+  "id": 1,
+  "name": "Adhoora",
+  "rating": 8.2,
+  "summary": "An action-packed thriller where spies clash in an international conspiracy.",
+  "genre": "Action",
+  "img_src": "https://i.ytimg.com/vi/kW1xGJvtFIk/hqdefault.jpg",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+{
+  "id": 2,
+  "name": "Paatal Lok",
+  "rating": 8.5,
+  "summary": "A gritty crime drama exploring the dark side of society.",
+  "genre": "Crime",
+  "img_src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF2shMJSElfV8kHsL9Bpp6T1QHzh5fM8fX0AQWFkfLthhi5MbRkkhQdapm_e18QaVg29wh",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+{
+  "id": 3,
+  "name": "Sacred Games",
+  "rating": 8.6,
+  "summary": "A police officer uncovers a dangerous criminal network in Mumbai.",
+  "genre": "Thriller",
+  "img_src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn5iQVUMmCBKWoRRAjY4qORrvL2SgxW8dSESz9BuRTIuB0L8AGgw1SkXNEGRxc6upBTSRpPA",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+},
+
+{
+"id": 1,
+"name": "Zaruri tha",
+"rating": 9.1,
+"summary": "An action-packed thriller where spies clash in an international conspiracy.",
+"genre": "Hearttouching",
+"img_src": "https://i.ytimg.com/vi/QW_5uoG2q90/maxresdefault.jpg",
+"watch_now_text": "Watch Now",
+"watch_url": "https://www.netflix.com"
+},
+{
+  "id": 1,
+  "name": "Zaruri tha",
+  "rating": 9.1,
+  "summary": "An action-packed thriller where spies clash in an international conspiracy.",
+  "genre": "Hearttouching",
+  "img_src": "https://i.ytimg.com/vi/QW_5uoG2q90/maxresdefault.jpg",
+  "watch_now_text": "Watch Now",
+  "watch_url": "https://www.netflix.com"
+  }
+
+]
+
